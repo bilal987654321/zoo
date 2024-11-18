@@ -1,16 +1,14 @@
-# TestCo
+# Zoo App
 
 ## Description
-TestCo is a web application built with EJS, JavaScript, and CSS. It includes features such as user management, animal and habitat management, and various other functionalities related to a zoo management system.
+TestCo est une application web construite avec EJS, JavaScript et CSS. Elle inclut des fonctionnalités telles que la gestion des utilisateurs, des animaux et des habitats, ainsi que diverses autres fonctionnalités liées à la gestion d'un zoo.
 
 ## Project Structure
-- **views/**: Contains EJS templates for rendering web pages.
-- **public/**: Includes static files like CSS and images.
-- **db/**: Contains database models and configurations.
-- **routes/**: Defines the routes for the application.
-- **app.js**: The main application file.
-
-## Getting Started
+- views/: Contient les templates EJS pour le rendu des pages web.
+- public/: Inclut les fichiers statiques comme le CSS et les images.
+- db/: Contient les modèles de la base de données et les configurations.
+- routes/: Définit les routes pour l'application.
+- app.js: Le fichier principal de l'application.
 
 ### Prerequisites
 - Node.js
