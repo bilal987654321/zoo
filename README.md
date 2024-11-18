@@ -1,7 +1,7 @@
 # Zoo App
 
 ## Description
-TestCo est une application web construite avec EJS, JavaScript et CSS. Elle inclut des fonctionnalités telles que la gestion des utilisateurs, des animaux et des habitats, ainsi que diverses autres fonctionnalités liées à la gestion d'un zoo.
+Zoo App est une application web construite avec EJS, JavaScript et CSS. Elle inclut des fonctionnalités telles que la gestion des utilisateurs, des animaux et des habitats, ainsi que diverses autres fonctionnalités liées à la gestion d'un zoo.
 
 ## Project Structure
 - views/: Contient les templates EJS pour le rendu des pages web.
